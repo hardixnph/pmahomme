@@ -1,7 +1,7 @@
 {
     "name": "pmahomme",
-    "version": "5.0",
-    "description": "Default phpMyAdmin theme",
+    "version": "5.0.1",
+    "description": "Default phpMyAdmin theme with some touches by fasthosting.ro",
     "author": "phpMyAdmin developers",
     "url": "https://www.phpmyadmin.net/",
     "supports": ["5.0", "5.1"]
