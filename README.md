@@ -1,2 +1,2 @@
 # pmahomme
- custom phpmyadmin theme for fasthosting.ro
+ custom phpmyadmin theme for db.fasthosting.ro
